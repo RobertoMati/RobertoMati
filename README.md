@@ -37,13 +37,6 @@ Building on my undergraduate studies, I’m now **specializing in advanced mobil
 
 ---
 
-### 💻 My Projects:
-- **[MyGymLog](https://github.com/RobertoMati/MyGymLog)**: A personal workout log app designed for Wear OS (currently a private repository). Track your exercises, sets, and progress right from your wrist.
-  
-- **[MyGymLogShowcase](https://github.com/RobertoMati/MyGymLogShowcase)**: A showcase for MyGymLog with features, screenshots, and more.
-
----
-
 ### 🔧 Technologies & Tools:
 - **Languages**: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 - **Frameworks**: ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2320232A.svg?&style=flat-square&logo=android&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?&style=flat-square&logo=android&logoColor=white)
