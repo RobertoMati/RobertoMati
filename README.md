@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 I'm a passionate software developer focused on mobile app development, particularly on Android and Wear OS. I hold a Bachelor's degree in Interactive Technologies from the Polytechnic University of Valencia, which provided a strong foundation in digital and software development. Currently, I'm furthering my expertise by pursuing a Master's in Software Development for Mobile Devices at the University of Alicante.
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=robertomati&theme=dark&hide_border=true" width="400">
+</p>
+
+
 ---
 
 ### 🌱 I’m currently learning:
