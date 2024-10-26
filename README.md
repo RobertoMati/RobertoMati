@@ -27,7 +27,7 @@ I'm a passionate software developer focused on mobile app development, particula
 Building on my undergraduate studies, I’m now **specializing in advanced mobile development** to deepen my expertise in areas like:
 
 - 📱 **Advanced iOS Development Techniques**
-- 🤖 **Advanced Android Techniques**
+- 🤖 **Advanced Android Development Techniques**
 - 🎮 **Mobile Game Development**
 - 🎨 **Graphics and Multimedia Integration**
 - ☁️ **Data Persistence and Cloud Integration**
