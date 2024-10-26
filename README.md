@@ -37,6 +37,18 @@ Building on my undergraduate studies, I’m now **specializing in advanced mobil
 
 ---
 
+## 🚀 Currently Developing
+
+### MyGymLog: Cross-Platform Fitness Tracker
+
+MyGymLog is a fitness tracking app in development for Wear OS and Android phones, designed to provide users with a complete workout experience across devices. Currently, it allows users to create custom routines, design exercise templates, track progress, and review workout history directly from their smartwatch. I'm working on expanding MyGymLog to Android phones, where it will offer additional tracking features and enhanced stats visualization for a more comprehensive user experience.
+
+🔗 [Check out MyGymLog Showcase](https://github.com/your-username/MyGymLogShowcase)
+
+---
+
+
+
 ### 🔧 Technologies & Tools:
 - **Languages**: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 - **Frameworks**: ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2320232A.svg?&style=flat-square&logo=android&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?&style=flat-square&logo=android&logoColor=white)
