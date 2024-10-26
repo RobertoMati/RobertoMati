@@ -26,14 +26,14 @@ I'm a passionate software developer focused on mobile app development, particula
 
 Building on my undergraduate studies, I’m now **specializing in advanced mobile development** to deepen my expertise in areas like:
 
-- 📱 **iOS Development**: Mastering Swift and Xcode to create dynamic, high-performance mobile applications.
-- 🤖 **Advanced Android Techniques**: Delving into UI frameworks and performance optimizations tailored for Android.
-- 🎮 **Mobile Game Development**: Developing engaging game mechanics and optimized graphics for mobile platforms.
-- 🎨 **Graphics and Multimedia Integration**: Enhancing apps with high-quality, efficient multimedia and visual elements.
-- ☁️ **Data Persistence and Cloud Integration**: Advanced techniques in data storage, syncing, and cloud integration for seamless app performance.
-- 🚀 **Optimized Mobile Programming**: Writing highly efficient, mobile-optimized code for better performance.
-- 🖌️ **UI/UX Design for Mobile**: Focusing on refined design principles to build user-friendly, visually appealing interfaces.
-- 🔧 **Cross-Platform and Platform-Specific Tools**: Leveraging both cross-platform and native services to maximize app functionality and reach.
+- 📱 **Advanced iOS Development Techniques**
+- 🤖 **Advanced Android Techniques**
+- 🎮 **Mobile Game Development**
+- 🎨 **Graphics and Multimedia Integration**
+- ☁️ **Data Persistence and Cloud Integration**
+- 🚀 **Optimized Mobile Programming**
+- 🖌️ **UI/UX Design for Mobile**
+- 🔧 **Cross-Platform and Platform-Specific Tools**
 
 ---
 
