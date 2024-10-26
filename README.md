@@ -66,7 +66,7 @@ MyGymLog is a fitness tracking app in development for Wear OS and Android phones
 ---
 
 ## 📫 Contact Me
-If you'd like to get in touch, feel free to reach out via email at [robertomatillaaugustinus@gmail.com](mailto:robertomatillaaugustinus@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+If you'd like to get in touch, feel free to reach out via email at [robertomatillaaugustinus@gmail.com](mailto:robertomatillaaugustinus@gmail.com) or connect with me on [LinkedIn](https://es.linkedin.com/in/roberto-matilla-augustinus).
 
 Thanks for visiting my profile! 😊
 
