@@ -48,7 +48,7 @@ Building on my undergraduate studies, I’m now **specializing in advanced mobil
 
 MyGymLog is a fitness tracking app in development for Wear OS and Android phones, designed to provide users with a complete workout experience across devices. Currently, it allows users to create custom routines, design exercise templates, track progress, and review workout history directly from their smartwatch. I'm working on expanding MyGymLog to Android phones, where it will offer additional tracking features and enhanced stats visualization for a more comprehensive user experience.
 
-🔗 [Check out MyGymLog Showcase](https://github.com/your-username/MyGymLogShowcase)
+🔗 [Check out MyGymLog Showcase](https://github.com/RobertoMati/MyGymLogShowcase)
 
 ---
 
